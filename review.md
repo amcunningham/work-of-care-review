@@ -209,7 +209,7 @@ The same condition holds for the integrated arrangement. An integrated team whos
 
 - The first pass used web search across 37 queries. A first PubMed run has since been added (see the search log); Embase, CINAHL, PsycINFO, HMIC, ASSIA and EconLit have not been searched, so the statement that no synthesis exists remains provisional.
 - Seed sources were chosen from prior knowledge of each tradition and then checked; this favours well-known papers and UK primary care.
-- Most sources were checked against abstracts, repository records or official summaries. Full text was read for the Commonwealth Fund case study only.
+- Sources were first checked against abstracts, repository records or official summaries. Full text has since been read, in full or in the relevant sections, for the sources behind the three-level table and the records reported in the full-text checks in the search log. The addiction intake papers, Jacobs 2006, Pauker and Kassirer 1980, Pajer 2023 and Verbeek 2018 remain at abstract level, and the sources listed under Sources and verification were characterised from secondary records.
 - Screening and classification were done by one reviewer. The three-level classification is a proposal to be challenged.
 - Operations research on queueing and triage, the social work literature on thresholds, and non-English sources were not searched.
 
@@ -218,12 +218,13 @@ The same condition holds for the integrated arrangement. An integrated team whos
 - [ ] Agree the primary question and definitions in Protocol 1
 - [ ] Decide between critical interpretive synthesis and a realist review
 - [ ] Run the database searches with an information specialist
-- [ ] Read in full the six sources on which most weight rests: Campbell 2014, Newbould 2017, Stokes 2015, Fletcher 2004, Ellis 2017, KPMG 2015
+- [x] Read the five sources on which most weight rests: Campbell 2014, Newbould 2017 and Fletcher 2004 in their results and discussion; Stokes 2015 and Ellis 2017 in their key sections
+- [ ] Obtain the KPMG 2015 Buurtzorg analysis; its figures are still taken from the Commonwealth Fund case study
 - [ ] Ask a methodologist to review the three-level table
 - [ ] Register the protocol on OSF
-- [ ] Read the six records not yet read: Adadja 2026, de Bruin 2022, Campbell 2015, and (if PDFs can be obtained) Lopatina 2017, Pajer 2023, Verbeek 2018
+- [x] Read the records not yet read: Adadja 2026, de Bruin 2022 and Lopatina 2017 in full; Campbell 2015 (the ESTEEM report) in part
 - [x] Screen the four unscreened PubMed result sets (S5, S6, S8, S14) and redo the T7 search terms
-- [ ] Obtain full text for the addiction intake papers, Jacobs 2006 and Pauker and Kassirer 1980, which remain at abstract level
+- [ ] Obtain full text for Pajer 2023 and Verbeek 2018 (library access needed), the addiction intake papers, Jacobs 2006 and Pauker and Kassirer 1980, which remain at abstract level
 - [ ] Search the databases other than PubMed
 
 ## Database search log
